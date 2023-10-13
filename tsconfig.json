@@ -1,0 +1,17 @@
+{
+    "typeAcquisition": {
+        "enable": true
+    },
+    "compilerOptions": {
+        "module": "commonjs",
+        "lib": ["es6"],
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "strictFunctionTypes": true,
+        "strictNullChecks": true,
+        "types": ["@types/node"],
+        "noEmit": true,
+        "forceConsistentCasingInFileNames": true,
+        "baseUrl": ".",
+    }
+}
